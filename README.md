@@ -1,1 +1,1 @@
-# static-resources
+## Image hub
